@@ -1,0 +1,11 @@
+name: Basecraft-Utilities
+version: '${project.version}'
+main: dev.aangepast.feedbackbasecraft.Main
+api-version: 1.16
+commands:
+  feedback:
+    description: Let us know your thoughts!
+    usage: /<command>
+  s:
+    description: Teleport player to your location
+    usage: /<command>
